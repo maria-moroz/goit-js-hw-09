@@ -1,0 +1,2 @@
+.timer{display:flex;margin-top:10px}.field{display:flex;flex-direction:column;align-items:center}.timer-expired{color:tomato}.field:not(:last-child){margin-right:10px}.value{font-size:32pt;line-height:1.2}.label{font-size:10pt;text-transform:uppercase}
+/*# sourceMappingURL=/parcel-project-template/02-timer.982385b3.css.map */
