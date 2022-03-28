@@ -1,0 +1,28 @@
+.timer {
+  display: flex;
+  margin-top: 10px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.timer-expired {
+  color: #ff6347;
+}
+
+.field:not(:last-child) {
+  margin-right: 10px;
+}
+
+.value {
+  font-size: 32pt;
+  line-height: 1.2;
+}
+
+.label {
+  font-size: 10pt;
+  text-transform: uppercase;
+}
